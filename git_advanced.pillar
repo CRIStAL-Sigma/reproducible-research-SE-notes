@@ -477,7 +477,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 As the error message says, the remote has changes that we do not have locally, so we need to update our repository first.
 This can be solved with a pull (Section *@pulling*) and a merge (*@merging*)
 
-!!! SSH or HTTP access? (0% Ayoub)
+!!! SSH or HTTP access? (2% Ayoub)
+
+Interacting with a remote Github repo requires the use of a secured (??) communication protocol: HTTPs or SSH. 
+
+
 @sshvshttps
 
 https://serverfault.com/questions/430059/what-are-the-pros-and-cons-of-ssh-and-http-for-a-git-server
